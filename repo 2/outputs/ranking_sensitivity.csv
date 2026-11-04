@@ -1,0 +1,5 @@
+,spearman_vs_base,top10_overlap_with_base
+equal,0.9596676394110358,7.0
+pool_heavy,0.8205743962548275,8.0
+outlook_heavy,0.6031220092097586,5.0
+traction_heavy,0.7144778285537826,4.0

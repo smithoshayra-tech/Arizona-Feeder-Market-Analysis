@@ -1,0 +1,1684 @@
+state,state_name,class_year,hs_graduates,data_status
+AK,Alaska,2009,8197,Reported/Actual
+AK,Alaska,2010,8442,Reported/Actual
+AK,Alaska,2011,8282,Reported/Actual
+AK,Alaska,2012,8158,Reported/Actual
+AK,Alaska,2013,8058,Reported/Actual
+AK,Alaska,2014,7855,Reported/Actual
+AK,Alaska,2015,8470,Reported/Actual
+AK,Alaska,2016,8295,Reported/Actual
+AK,Alaska,2017,8527,Reported/Actual
+AK,Alaska,2018,8589,Reported/Actual
+AK,Alaska,2019,8612,Reported/Actual
+AK,Alaska,2020,8108,Reported/Actual
+AK,Alaska,2021,8174,Reported/Actual
+AK,Alaska,2022,8150,Includes Reported/Actual and Projected Values
+AK,Alaska,2023,8328,Includes Reported/Actual and Projected Values
+AK,Alaska,2024,8502,Projection
+AK,Alaska,2025,8722,Projection
+AK,Alaska,2026,8879,Projection
+AK,Alaska,2027,8956,Projection
+AK,Alaska,2028,8728,Projection
+AK,Alaska,2029,8876,Projection
+AK,Alaska,2030,8878,Projection
+AK,Alaska,2031,8855,Projection
+AK,Alaska,2032,8983,Projection
+AK,Alaska,2033,8850,Projection
+AK,Alaska,2034,9008,Projection
+AK,Alaska,2035,8334,Projection
+AK,Alaska,2036,8008,Projection
+AK,Alaska,2037,7806,Projection
+AK,Alaska,2038,7527,Projection
+AK,Alaska,2039,7462,Projection
+AK,Alaska,2040,7449,Projection
+AK,Alaska,2041,7170,Projection
+AL,Alabama,2009,47359,Reported/Actual
+AL,Alabama,2010,48128,Reported/Actual
+AL,Alabama,2011,50756,Reported/Actual
+AL,Alabama,2012,50137,Reported/Actual
+AL,Alabama,2013,48998,Reported/Actual
+AL,Alabama,2014,50745,Reported/Actual
+AL,Alabama,2015,50738,Reported/Actual
+AL,Alabama,2016,51976,Reported/Actual
+AL,Alabama,2017,54540,Reported/Actual
+AL,Alabama,2018,55331,Reported/Actual
+AL,Alabama,2019,52925,Reported/Actual
+AL,Alabama,2020,54466,Reported/Actual
+AL,Alabama,2021,53739,Reported/Actual
+AL,Alabama,2022,52181,Includes Reported/Actual and Projected Values
+AL,Alabama,2023,52954,Includes Reported/Actual and Projected Values
+AL,Alabama,2024,52615,Projection
+AL,Alabama,2025,55021,Projection
+AL,Alabama,2026,55546,Projection
+AL,Alabama,2027,54669,Projection
+AL,Alabama,2028,53629,Projection
+AL,Alabama,2029,52987,Projection
+AL,Alabama,2030,52926,Projection
+AL,Alabama,2031,52747,Projection
+AL,Alabama,2032,53246,Projection
+AL,Alabama,2033,54537,Projection
+AL,Alabama,2034,56906,Projection
+AL,Alabama,2035,55235,Projection
+AL,Alabama,2036,54033,Projection
+AL,Alabama,2037,54927,Projection
+AL,Alabama,2038,54024,Projection
+AL,Alabama,2039,54607,Projection
+AL,Alabama,2040,54560,Projection
+AL,Alabama,2041,54262,Projection
+AR,Arkansas,2009,29387,Reported/Actual
+AR,Arkansas,2010,29569,Reported/Actual
+AR,Arkansas,2011,29700,Reported/Actual
+AR,Arkansas,2012,29965,Reported/Actual
+AR,Arkansas,2013,30526,Reported/Actual
+AR,Arkansas,2014,32498,Reported/Actual
+AR,Arkansas,2015,32136,Reported/Actual
+AR,Arkansas,2016,32612,Reported/Actual
+AR,Arkansas,2017,33014,Reported/Actual
+AR,Arkansas,2018,33531,Reported/Actual
+AR,Arkansas,2019,34014,Reported/Actual
+AR,Arkansas,2020,34604,Reported/Actual
+AR,Arkansas,2021,33705,Reported/Actual
+AR,Arkansas,2022,33693,Includes Reported/Actual and Projected Values
+AR,Arkansas,2023,33861,Includes Reported/Actual and Projected Values
+AR,Arkansas,2024,33580,Projection
+AR,Arkansas,2025,36169,Projection
+AR,Arkansas,2026,35867,Projection
+AR,Arkansas,2027,35380,Projection
+AR,Arkansas,2028,34501,Projection
+AR,Arkansas,2029,34121,Projection
+AR,Arkansas,2030,34255,Projection
+AR,Arkansas,2031,34374,Projection
+AR,Arkansas,2032,34456,Projection
+AR,Arkansas,2033,34546,Projection
+AR,Arkansas,2034,35598,Projection
+AR,Arkansas,2035,34497,Projection
+AR,Arkansas,2036,33987,Projection
+AR,Arkansas,2037,33457,Projection
+AR,Arkansas,2038,32236,Projection
+AR,Arkansas,2039,33023,Projection
+AR,Arkansas,2040,32539,Projection
+AR,Arkansas,2041,32330,Projection
+AZ,Arizona,2009,65129,Reported/Actual
+AZ,Arizona,2010,63608,Reported/Actual
+AZ,Arizona,2011,67118,Reported/Actual
+AZ,Arizona,2012,66036,Reported/Actual
+AZ,Arizona,2013,65218,Reported/Actual
+AZ,Arizona,2014,65733,Reported/Actual
+AZ,Arizona,2015,68831,Reported/Actual
+AZ,Arizona,2016,73226,Reported/Actual
+AZ,Arizona,2017,75965,Reported/Actual
+AZ,Arizona,2018,76552,Reported/Actual
+AZ,Arizona,2019,77873,Reported/Actual
+AZ,Arizona,2020,77005,Reported/Actual
+AZ,Arizona,2021,74911,Reported/Actual
+AZ,Arizona,2022,76808,Includes Reported/Actual and Projected Values
+AZ,Arizona,2023,82942,Includes Reported/Actual and Projected Values
+AZ,Arizona,2024,84208,Projection
+AZ,Arizona,2025,85639,Projection
+AZ,Arizona,2026,85942,Projection
+AZ,Arizona,2027,84970,Projection
+AZ,Arizona,2028,83135,Projection
+AZ,Arizona,2029,83422,Projection
+AZ,Arizona,2030,84186,Projection
+AZ,Arizona,2031,85714,Projection
+AZ,Arizona,2032,88175,Projection
+AZ,Arizona,2033,87214,Projection
+AZ,Arizona,2034,89551,Projection
+AZ,Arizona,2035,85262,Projection
+AZ,Arizona,2036,84154,Projection
+AZ,Arizona,2037,82695,Projection
+AZ,Arizona,2038,80140,Projection
+AZ,Arizona,2039,81375,Projection
+AZ,Arizona,2040,81912,Projection
+AZ,Arizona,2041,81428,Projection
+CA,California,2009,407566,Reported/Actual
+CA,California,2010,441065,Reported/Actual
+CA,California,2011,444848,Reported/Actual
+CA,California,2012,452205,Reported/Actual
+CA,California,2013,454826,Reported/Actual
+CA,California,2014,456458,Reported/Actual
+CA,California,2015,463893,Reported/Actual
+CA,California,2016,468449,Reported/Actual
+CA,California,2017,470869,Reported/Actual
+CA,California,2018,478819,Reported/Actual
+CA,California,2019,477479,Reported/Actual
+CA,California,2020,467260,Reported/Actual
+CA,California,2021,473448,Reported/Actual
+CA,California,2022,492544,Includes Reported/Actual and Projected Values
+CA,California,2023,477531,Includes Reported/Actual and Projected Values
+CA,California,2024,480572,Projection
+CA,California,2025,469214,Projection
+CA,California,2026,466446,Projection
+CA,California,2027,444238,Projection
+CA,California,2028,445976,Projection
+CA,California,2029,443486,Projection
+CA,California,2030,435481,Projection
+CA,California,2031,429038,Projection
+CA,California,2032,423289,Projection
+CA,California,2033,412692,Projection
+CA,California,2034,407933,Projection
+CA,California,2035,402356,Projection
+CA,California,2036,387734,Projection
+CA,California,2037,377402,Projection
+CA,California,2038,355122,Projection
+CA,California,2039,355743,Projection
+CA,California,2040,355261,Projection
+CA,California,2041,339022,Projection
+CO,Colorado,2009,50297,Reported/Actual
+CO,Colorado,2010,52149,Reported/Actual
+CO,Colorado,2011,53014,Reported/Actual
+CO,Colorado,2012,52793,Reported/Actual
+CO,Colorado,2013,53488,Reported/Actual
+CO,Colorado,2014,54164,Reported/Actual
+CO,Colorado,2015,54738,Reported/Actual
+CO,Colorado,2016,57414,Reported/Actual
+CO,Colorado,2017,58317,Reported/Actual
+CO,Colorado,2018,60962,Reported/Actual
+CO,Colorado,2019,61237,Reported/Actual
+CO,Colorado,2020,63204,Reported/Actual
+CO,Colorado,2021,64869,Reported/Actual
+CO,Colorado,2022,63277,Includes Reported/Actual and Projected Values
+CO,Colorado,2023,64096,Includes Reported/Actual and Projected Values
+CO,Colorado,2024,64439,Projection
+CO,Colorado,2025,65716,Projection
+CO,Colorado,2026,65391,Projection
+CO,Colorado,2027,63691,Projection
+CO,Colorado,2028,61712,Projection
+CO,Colorado,2029,61061,Projection
+CO,Colorado,2030,60300,Projection
+CO,Colorado,2031,59920,Projection
+CO,Colorado,2032,60568,Projection
+CO,Colorado,2033,59673,Projection
+CO,Colorado,2034,60923,Projection
+CO,Colorado,2035,59557,Projection
+CO,Colorado,2036,57987,Projection
+CO,Colorado,2037,57574,Projection
+CO,Colorado,2038,56270,Projection
+CO,Colorado,2039,57765,Projection
+CO,Colorado,2040,57315,Projection
+CO,Colorado,2041,56457,Projection
+CT,Connecticut,2009,41201,Reported/Actual
+CT,Connecticut,2010,40996,Reported/Actual
+CT,Connecticut,2011,44813,Reported/Actual
+CT,Connecticut,2012,44698,Reported/Actual
+CT,Connecticut,2013,44797,Reported/Actual
+CT,Connecticut,2014,45430,Reported/Actual
+CT,Connecticut,2015,45097,Reported/Actual
+CT,Connecticut,2016,44837,Reported/Actual
+CT,Connecticut,2017,44726,Reported/Actual
+CT,Connecticut,2018,45216,Reported/Actual
+CT,Connecticut,2019,45222,Reported/Actual
+CT,Connecticut,2020,44901,Reported/Actual
+CT,Connecticut,2021,44540,Reported/Actual
+CT,Connecticut,2022,44962,Includes Reported/Actual and Projected Values
+CT,Connecticut,2023,44185,Includes Reported/Actual and Projected Values
+CT,Connecticut,2024,44149,Projection
+CT,Connecticut,2025,45634,Projection
+CT,Connecticut,2026,44448,Projection
+CT,Connecticut,2027,43502,Projection
+CT,Connecticut,2028,42638,Projection
+CT,Connecticut,2029,42437,Projection
+CT,Connecticut,2030,42528,Projection
+CT,Connecticut,2031,42391,Projection
+CT,Connecticut,2032,42838,Projection
+CT,Connecticut,2033,44273,Projection
+CT,Connecticut,2034,45136,Projection
+CT,Connecticut,2035,43091,Projection
+CT,Connecticut,2036,42453,Projection
+CT,Connecticut,2037,41920,Projection
+CT,Connecticut,2038,41169,Projection
+CT,Connecticut,2039,43898,Projection
+CT,Connecticut,2040,43364,Projection
+CT,Connecticut,2041,42405,Projection
+DC,District of Columbia,2009,4856,Reported/Actual
+DC,District of Columbia,2010,4927,Reported/Actual
+DC,District of Columbia,2011,4990,Reported/Actual
+DC,District of Columbia,2012,5524,Reported/Actual
+DC,District of Columbia,2013,5776,Reported/Actual
+DC,District of Columbia,2014,5085,Reported/Actual
+DC,District of Columbia,2015,4758,Reported/Actual
+DC,District of Columbia,2016,4654,Reported/Actual
+DC,District of Columbia,2017,4495,Reported/Actual
+DC,District of Columbia,2018,4757,Reported/Actual
+DC,District of Columbia,2019,4662,Reported/Actual
+DC,District of Columbia,2020,5077,Reported/Actual
+DC,District of Columbia,2021,5148,Reported/Actual
+DC,District of Columbia,2022,5190,Includes Reported/Actual and Projected Values
+DC,District of Columbia,2023,5747,Includes Reported/Actual and Projected Values
+DC,District of Columbia,2024,5919,Projection
+DC,District of Columbia,2025,6652,Projection
+DC,District of Columbia,2026,7252,Projection
+DC,District of Columbia,2027,7447,Projection
+DC,District of Columbia,2028,7818,Projection
+DC,District of Columbia,2029,8325,Projection
+DC,District of Columbia,2030,8699,Projection
+DC,District of Columbia,2031,8832,Projection
+DC,District of Columbia,2032,9013,Projection
+DC,District of Columbia,2033,9461,Projection
+DC,District of Columbia,2034,9282,Projection
+DC,District of Columbia,2035,9072,Projection
+DC,District of Columbia,2036,8780,Projection
+DC,District of Columbia,2037,8661,Projection
+DC,District of Columbia,2038,8487,Projection
+DC,District of Columbia,2039,8246,Projection
+DC,District of Columbia,2040,7694,Projection
+DC,District of Columbia,2041,7529,Projection
+DE,Delaware,2009,9756,Reported/Actual
+DE,Delaware,2010,9852,Reported/Actual
+DE,Delaware,2011,9817,Reported/Actual
+DE,Delaware,2012,10027,Reported/Actual
+DE,Delaware,2013,9857,Reported/Actual
+DE,Delaware,2014,9790,Reported/Actual
+DE,Delaware,2015,9470,Reported/Actual
+DE,Delaware,2016,9636,Reported/Actual
+DE,Delaware,2017,10138,Reported/Actual
+DE,Delaware,2018,10262,Reported/Actual
+DE,Delaware,2019,9861,Reported/Actual
+DE,Delaware,2020,10667,Reported/Actual
+DE,Delaware,2021,10644,Reported/Actual
+DE,Delaware,2022,11054,Includes Reported/Actual and Projected Values
+DE,Delaware,2023,11178,Includes Reported/Actual and Projected Values
+DE,Delaware,2024,11195,Projection
+DE,Delaware,2025,11939,Projection
+DE,Delaware,2026,11807,Projection
+DE,Delaware,2027,11980,Projection
+DE,Delaware,2028,12015,Projection
+DE,Delaware,2029,12152,Projection
+DE,Delaware,2030,12106,Projection
+DE,Delaware,2031,12228,Projection
+DE,Delaware,2032,12250,Projection
+DE,Delaware,2033,12544,Projection
+DE,Delaware,2034,13106,Projection
+DE,Delaware,2035,12597,Projection
+DE,Delaware,2036,12300,Projection
+DE,Delaware,2037,12206,Projection
+DE,Delaware,2038,12030,Projection
+DE,Delaware,2039,12191,Projection
+DE,Delaware,2040,12546,Projection
+DE,Delaware,2041,12087,Projection
+FL,Florida,2009,171716,Reported/Actual
+FL,Florida,2010,171236,Reported/Actual
+FL,Florida,2011,175553,Reported/Actual
+FL,Florida,2012,171711,Reported/Actual
+FL,Florida,2013,177464,Reported/Actual
+FL,Florida,2014,178850,Reported/Actual
+FL,Florida,2015,186278,Reported/Actual
+FL,Florida,2016,192110,Reported/Actual
+FL,Florida,2017,203147,Reported/Actual
+FL,Florida,2018,213187,Reported/Actual
+FL,Florida,2019,215797,Reported/Actual
+FL,Florida,2020,223891,Reported/Actual
+FL,Florida,2021,217330,Reported/Actual
+FL,Florida,2022,214692,Includes Reported/Actual and Projected Values
+FL,Florida,2023,221601,Includes Reported/Actual and Projected Values
+FL,Florida,2024,229700,Projection
+FL,Florida,2025,234996,Projection
+FL,Florida,2026,238645,Projection
+FL,Florida,2027,234868,Projection
+FL,Florida,2028,233367,Projection
+FL,Florida,2029,242266,Projection
+FL,Florida,2030,234121,Projection
+FL,Florida,2031,230548,Projection
+FL,Florida,2032,244711,Projection
+FL,Florida,2033,244946,Projection
+FL,Florida,2034,251173,Projection
+FL,Florida,2035,251771,Projection
+FL,Florida,2036,247888,Projection
+FL,Florida,2037,245600,Projection
+FL,Florida,2038,233691,Projection
+FL,Florida,2039,241656,Projection
+FL,Florida,2040,250989,Projection
+FL,Florida,2041,247409,Projection
+GA,Georgia,2009,96325,Reported/Actual
+GA,Georgia,2010,99776,Reported/Actual
+GA,Georgia,2011,100099,Reported/Actual
+GA,Georgia,2012,99145,Reported/Actual
+GA,Georgia,2013,101782,Reported/Actual
+GA,Georgia,2014,103684,Reported/Actual
+GA,Georgia,2015,115326,Reported/Actual
+GA,Georgia,2016,117594,Reported/Actual
+GA,Georgia,2017,119403,Reported/Actual
+GA,Georgia,2018,121897,Reported/Actual
+GA,Georgia,2019,126126,Reported/Actual
+GA,Georgia,2020,124712,Reported/Actual
+GA,Georgia,2021,122695,Reported/Actual
+GA,Georgia,2022,126146,Includes Reported/Actual and Projected Values
+GA,Georgia,2023,128074,Includes Reported/Actual and Projected Values
+GA,Georgia,2024,127805,Projection
+GA,Georgia,2025,134031,Projection
+GA,Georgia,2026,132754,Projection
+GA,Georgia,2027,131302,Projection
+GA,Georgia,2028,128606,Projection
+GA,Georgia,2029,128523,Projection
+GA,Georgia,2030,127882,Projection
+GA,Georgia,2031,128105,Projection
+GA,Georgia,2032,129213,Projection
+GA,Georgia,2033,130036,Projection
+GA,Georgia,2034,133045,Projection
+GA,Georgia,2035,131414,Projection
+GA,Georgia,2036,128150,Projection
+GA,Georgia,2037,127884,Projection
+GA,Georgia,2038,123893,Projection
+GA,Georgia,2039,125906,Projection
+GA,Georgia,2040,127936,Projection
+GA,Georgia,2041,126851,Projection
+HI,Hawaii,2009,14167,Reported/Actual
+HI,Hawaii,2010,13692,Reported/Actual
+HI,Hawaii,2011,13476,Reported/Actual
+HI,Hawaii,2012,14047,Reported/Actual
+HI,Hawaii,2013,13404,Reported/Actual
+HI,Hawaii,2014,14201,Reported/Actual
+HI,Hawaii,2015,14345,Reported/Actual
+HI,Hawaii,2016,14411,Reported/Actual
+HI,Hawaii,2017,14305,Reported/Actual
+HI,Hawaii,2018,14706,Reported/Actual
+HI,Hawaii,2019,14100,Reported/Actual
+HI,Hawaii,2020,14567,Reported/Actual
+HI,Hawaii,2021,14314,Reported/Actual
+HI,Hawaii,2022,14206,Includes Reported/Actual and Projected Values
+HI,Hawaii,2023,14290,Includes Reported/Actual and Projected Values
+HI,Hawaii,2024,13852,Projection
+HI,Hawaii,2025,14276,Projection
+HI,Hawaii,2026,13929,Projection
+HI,Hawaii,2027,11184,Projection
+HI,Hawaii,2028,12996,Projection
+HI,Hawaii,2029,12931,Projection
+HI,Hawaii,2030,12650,Projection
+HI,Hawaii,2031,12551,Projection
+HI,Hawaii,2032,12179,Projection
+HI,Hawaii,2033,11522,Projection
+HI,Hawaii,2034,11664,Projection
+HI,Hawaii,2035,11450,Projection
+HI,Hawaii,2036,11042,Projection
+HI,Hawaii,2037,10829,Projection
+HI,Hawaii,2038,10170,Projection
+HI,Hawaii,2039,10106,Projection
+HI,Hawaii,2040,10063,Projection
+HI,Hawaii,2041,9582,Projection
+IA,Iowa,2009,36175,Reported/Actual
+IA,Iowa,2010,36611,Reported/Actual
+IA,Iowa,2011,36060,Reported/Actual
+IA,Iowa,2012,35535,Reported/Actual
+IA,Iowa,2013,34951,Reported/Actual
+IA,Iowa,2014,35431,Reported/Actual
+IA,Iowa,2015,35403,Reported/Actual
+IA,Iowa,2016,35796,Reported/Actual
+IA,Iowa,2017,36080,Reported/Actual
+IA,Iowa,2018,36735,Reported/Actual
+IA,Iowa,2019,36359,Reported/Actual
+IA,Iowa,2020,37097,Reported/Actual
+IA,Iowa,2021,36521,Reported/Actual
+IA,Iowa,2022,36870,Includes Reported/Actual and Projected Values
+IA,Iowa,2023,37780,Includes Reported/Actual and Projected Values
+IA,Iowa,2024,38501,Projection
+IA,Iowa,2025,39747,Projection
+IA,Iowa,2026,39893,Projection
+IA,Iowa,2027,38907,Projection
+IA,Iowa,2028,38372,Projection
+IA,Iowa,2029,37578,Projection
+IA,Iowa,2030,38192,Projection
+IA,Iowa,2031,38836,Projection
+IA,Iowa,2032,39263,Projection
+IA,Iowa,2033,39403,Projection
+IA,Iowa,2034,39685,Projection
+IA,Iowa,2035,38769,Projection
+IA,Iowa,2036,38110,Projection
+IA,Iowa,2037,37864,Projection
+IA,Iowa,2038,36319,Projection
+IA,Iowa,2039,37086,Projection
+IA,Iowa,2040,36764,Projection
+IA,Iowa,2041,36299,Projection
+ID,Idaho,2009,17350,Reported/Actual
+ID,Idaho,2010,18415,Reported/Actual
+ID,Idaho,2011,18108,Reported/Actual
+ID,Idaho,2012,18193,Reported/Actual
+ID,Idaho,2013,17865,Reported/Actual
+ID,Idaho,2014,18304,Reported/Actual
+ID,Idaho,2015,17566,Reported/Actual
+ID,Idaho,2016,18199,Reported/Actual
+ID,Idaho,2017,18923,Reported/Actual
+ID,Idaho,2018,20130,Reported/Actual
+ID,Idaho,2019,20446,Reported/Actual
+ID,Idaho,2020,20809,Reported/Actual
+ID,Idaho,2021,21128,Reported/Actual
+ID,Idaho,2022,21457,Includes Reported/Actual and Projected Values
+ID,Idaho,2023,22827,Includes Reported/Actual and Projected Values
+ID,Idaho,2024,22611,Projection
+ID,Idaho,2025,23623,Projection
+ID,Idaho,2026,24058,Projection
+ID,Idaho,2027,24109,Projection
+ID,Idaho,2028,23992,Projection
+ID,Idaho,2029,24071,Projection
+ID,Idaho,2030,24257,Projection
+ID,Idaho,2031,24993,Projection
+ID,Idaho,2032,25434,Projection
+ID,Idaho,2033,26093,Projection
+ID,Idaho,2034,26317,Projection
+ID,Idaho,2035,25509,Projection
+ID,Idaho,2036,24759,Projection
+ID,Idaho,2037,25542,Projection
+ID,Idaho,2038,24895,Projection
+ID,Idaho,2039,25965,Projection
+ID,Idaho,2040,25888,Projection
+ID,Idaho,2041,25907,Projection
+IL,Illinois,2009,146777,Reported/Actual
+IL,Illinois,2010,152106,Reported/Actual
+IL,Illinois,2011,149458,Reported/Actual
+IL,Illinois,2012,153840,Reported/Actual
+IL,Illinois,2013,153256,Reported/Actual
+IL,Illinois,2014,154527,Reported/Actual
+IL,Illinois,2015,155799,Reported/Actual
+IL,Illinois,2016,152875,Reported/Actual
+IL,Illinois,2017,152142,Reported/Actual
+IL,Illinois,2018,152277,Reported/Actual
+IL,Illinois,2019,149373,Reported/Actual
+IL,Illinois,2020,150490,Reported/Actual
+IL,Illinois,2021,145439,Reported/Actual
+IL,Illinois,2022,148445,Includes Reported/Actual and Projected Values
+IL,Illinois,2023,145564,Includes Reported/Actual and Projected Values
+IL,Illinois,2024,141953,Projection
+IL,Illinois,2025,144561,Projection
+IL,Illinois,2026,138905,Projection
+IL,Illinois,2027,135221,Projection
+IL,Illinois,2028,129922,Projection
+IL,Illinois,2029,127932,Projection
+IL,Illinois,2030,124210,Projection
+IL,Illinois,2031,122102,Projection
+IL,Illinois,2032,122293,Projection
+IL,Illinois,2033,122392,Projection
+IL,Illinois,2034,123865,Projection
+IL,Illinois,2035,119005,Projection
+IL,Illinois,2036,115083,Projection
+IL,Illinois,2037,111000,Projection
+IL,Illinois,2038,105570,Projection
+IL,Illinois,2039,105039,Projection
+IL,Illinois,2040,101930,Projection
+IL,Illinois,2041,99067,Projection
+IN,Indiana,2009,68895,Reported/Actual
+IN,Indiana,2010,68295,Reported/Actual
+IN,Indiana,2011,71755,Reported/Actual
+IN,Indiana,2012,71029,Reported/Actual
+IN,Indiana,2013,71698,Reported/Actual
+IN,Indiana,2014,74383,Reported/Actual
+IN,Indiana,2015,74944,Reported/Actual
+IN,Indiana,2016,74729,Reported/Actual
+IN,Indiana,2017,75425,Reported/Actual
+IN,Indiana,2018,76144,Reported/Actual
+IN,Indiana,2019,78809,Reported/Actual
+IN,Indiana,2020,78348,Reported/Actual
+IN,Indiana,2021,74897,Reported/Actual
+IN,Indiana,2022,76628,Includes Reported/Actual and Projected Values
+IN,Indiana,2023,76805,Includes Reported/Actual and Projected Values
+IN,Indiana,2024,75827,Projection
+IN,Indiana,2025,78138,Projection
+IN,Indiana,2026,77246,Projection
+IN,Indiana,2027,75343,Projection
+IN,Indiana,2028,73888,Projection
+IN,Indiana,2029,72804,Projection
+IN,Indiana,2030,72817,Projection
+IN,Indiana,2031,71931,Projection
+IN,Indiana,2032,73251,Projection
+IN,Indiana,2033,72292,Projection
+IN,Indiana,2034,74084,Projection
+IN,Indiana,2035,72575,Projection
+IN,Indiana,2036,71801,Projection
+IN,Indiana,2037,70993,Projection
+IN,Indiana,2038,69054,Projection
+IN,Indiana,2039,70447,Projection
+IN,Indiana,2040,70118,Projection
+IN,Indiana,2041,69494,Projection
+KS,Kansas,2009,32534,Reported/Actual
+KS,Kansas,2010,33806,Reported/Actual
+KS,Kansas,2011,33630,Reported/Actual
+KS,Kansas,2012,34120,Reported/Actual
+KS,Kansas,2013,34106,Reported/Actual
+KS,Kansas,2014,33938,Reported/Actual
+KS,Kansas,2015,34632,Reported/Actual
+KS,Kansas,2016,34854,Reported/Actual
+KS,Kansas,2017,35438,Reported/Actual
+KS,Kansas,2018,35979,Reported/Actual
+KS,Kansas,2019,35923,Reported/Actual
+KS,Kansas,2020,36149,Reported/Actual
+KS,Kansas,2021,36624,Reported/Actual
+KS,Kansas,2022,36832,Includes Reported/Actual and Projected Values
+KS,Kansas,2023,36985,Includes Reported/Actual and Projected Values
+KS,Kansas,2024,37260,Projection
+KS,Kansas,2025,38361,Projection
+KS,Kansas,2026,37673,Projection
+KS,Kansas,2027,37481,Projection
+KS,Kansas,2028,37322,Projection
+KS,Kansas,2029,36377,Projection
+KS,Kansas,2030,36660,Projection
+KS,Kansas,2031,36398,Projection
+KS,Kansas,2032,36610,Projection
+KS,Kansas,2033,36015,Projection
+KS,Kansas,2034,36943,Projection
+KS,Kansas,2035,34967,Projection
+KS,Kansas,2036,34730,Projection
+KS,Kansas,2037,33768,Projection
+KS,Kansas,2038,32743,Projection
+KS,Kansas,2039,33213,Projection
+KS,Kansas,2040,32891,Projection
+KS,Kansas,2041,32554,Projection
+KY,Kentucky,2009,45788,Reported/Actual
+KY,Kentucky,2010,46722,Reported/Actual
+KY,Kentucky,2011,47158,Reported/Actual
+KY,Kentucky,2012,47107,Reported/Actual
+KY,Kentucky,2013,47691,Reported/Actual
+KY,Kentucky,2014,48215,Reported/Actual
+KY,Kentucky,2015,48128,Reported/Actual
+KY,Kentucky,2016,49244,Reported/Actual
+KY,Kentucky,2017,49723,Reported/Actual
+KY,Kentucky,2018,51210,Reported/Actual
+KY,Kentucky,2019,51547,Reported/Actual
+KY,Kentucky,2020,50879,Reported/Actual
+KY,Kentucky,2021,49640,Reported/Actual
+KY,Kentucky,2022,49328,Includes Reported/Actual and Projected Values
+KY,Kentucky,2023,50350,Includes Reported/Actual and Projected Values
+KY,Kentucky,2024,48954,Projection
+KY,Kentucky,2025,51027,Projection
+KY,Kentucky,2026,50499,Projection
+KY,Kentucky,2027,49776,Projection
+KY,Kentucky,2028,47639,Projection
+KY,Kentucky,2029,47251,Projection
+KY,Kentucky,2030,44440,Projection
+KY,Kentucky,2031,47858,Projection
+KY,Kentucky,2032,47908,Projection
+KY,Kentucky,2033,47536,Projection
+KY,Kentucky,2034,50393,Projection
+KY,Kentucky,2035,48080,Projection
+KY,Kentucky,2036,47537,Projection
+KY,Kentucky,2037,46541,Projection
+KY,Kentucky,2038,45395,Projection
+KY,Kentucky,2039,46119,Projection
+KY,Kentucky,2040,46069,Projection
+KY,Kentucky,2041,45762,Projection
+LA,Louisiana,2009,43758,Reported/Actual
+LA,Louisiana,2010,44843,Reported/Actual
+LA,Louisiana,2011,43352,Reported/Actual
+LA,Louisiana,2012,44380,Reported/Actual
+LA,Louisiana,2013,45410,Reported/Actual
+LA,Louisiana,2014,45949,Reported/Actual
+LA,Louisiana,2015,45784,Reported/Actual
+LA,Louisiana,2016,47813,Reported/Actual
+LA,Louisiana,2017,48989,Reported/Actual
+LA,Louisiana,2018,52809,Reported/Actual
+LA,Louisiana,2019,53334,Reported/Actual
+LA,Louisiana,2020,52461,Reported/Actual
+LA,Louisiana,2021,49777,Reported/Actual
+LA,Louisiana,2022,49729,Includes Reported/Actual and Projected Values
+LA,Louisiana,2023,49128,Includes Reported/Actual and Projected Values
+LA,Louisiana,2024,49541,Projection
+LA,Louisiana,2025,53263,Projection
+LA,Louisiana,2026,53296,Projection
+LA,Louisiana,2027,52573,Projection
+LA,Louisiana,2028,50853,Projection
+LA,Louisiana,2029,50697,Projection
+LA,Louisiana,2030,50745,Projection
+LA,Louisiana,2031,51293,Projection
+LA,Louisiana,2032,52359,Projection
+LA,Louisiana,2033,53540,Projection
+LA,Louisiana,2034,56127,Projection
+LA,Louisiana,2035,52289,Projection
+LA,Louisiana,2036,50926,Projection
+LA,Louisiana,2037,50354,Projection
+LA,Louisiana,2038,49080,Projection
+LA,Louisiana,2039,49429,Projection
+LA,Louisiana,2040,48430,Projection
+LA,Louisiana,2041,47061,Projection
+MA,Massachusetts,2009,75888,Reported/Actual
+MA,Massachusetts,2010,75330,Reported/Actual
+MA,Massachusetts,2011,74858,Reported/Actual
+MA,Massachusetts,2012,75732,Reported/Actual
+MA,Massachusetts,2013,77377,Reported/Actual
+MA,Massachusetts,2014,76502,Reported/Actual
+MA,Massachusetts,2015,74810,Reported/Actual
+MA,Massachusetts,2016,75661,Reported/Actual
+MA,Massachusetts,2017,77749,Reported/Actual
+MA,Massachusetts,2018,78060,Reported/Actual
+MA,Massachusetts,2019,79537,Reported/Actual
+MA,Massachusetts,2020,78839,Reported/Actual
+MA,Massachusetts,2021,78514,Reported/Actual
+MA,Massachusetts,2022,78133,Includes Reported/Actual and Projected Values
+MA,Massachusetts,2023,75494,Includes Reported/Actual and Projected Values
+MA,Massachusetts,2024,74846,Projection
+MA,Massachusetts,2025,76935,Projection
+MA,Massachusetts,2026,77056,Projection
+MA,Massachusetts,2027,75116,Projection
+MA,Massachusetts,2028,73419,Projection
+MA,Massachusetts,2029,73392,Projection
+MA,Massachusetts,2030,72708,Projection
+MA,Massachusetts,2031,73112,Projection
+MA,Massachusetts,2032,72520,Projection
+MA,Massachusetts,2033,72517,Projection
+MA,Massachusetts,2034,74253,Projection
+MA,Massachusetts,2035,73434,Projection
+MA,Massachusetts,2036,71730,Projection
+MA,Massachusetts,2037,71410,Projection
+MA,Massachusetts,2038,68631,Projection
+MA,Massachusetts,2039,71619,Projection
+MA,Massachusetts,2040,71039,Projection
+MA,Massachusetts,2041,69464,Projection
+MD,Maryland,2009,67532,Reported/Actual
+MD,Maryland,2010,68659,Reported/Actual
+MD,Maryland,2011,67579,Reported/Actual
+MD,Maryland,2012,67712,Reported/Actual
+MD,Maryland,2013,67865,Reported/Actual
+MD,Maryland,2014,67332,Reported/Actual
+MD,Maryland,2015,66688,Reported/Actual
+MD,Maryland,2016,67001,Reported/Actual
+MD,Maryland,2017,67091,Reported/Actual
+MD,Maryland,2018,68208,Reported/Actual
+MD,Maryland,2019,67971,Reported/Actual
+MD,Maryland,2020,71017,Reported/Actual
+MD,Maryland,2021,69124,Reported/Actual
+MD,Maryland,2022,69770,Includes Reported/Actual and Projected Values
+MD,Maryland,2023,70362,Includes Reported/Actual and Projected Values
+MD,Maryland,2024,68522,Projection
+MD,Maryland,2025,74018,Projection
+MD,Maryland,2026,74094,Projection
+MD,Maryland,2027,71173,Projection
+MD,Maryland,2028,69495,Projection
+MD,Maryland,2029,69600,Projection
+MD,Maryland,2030,68766,Projection
+MD,Maryland,2031,68679,Projection
+MD,Maryland,2032,68883,Projection
+MD,Maryland,2033,68150,Projection
+MD,Maryland,2034,70607,Projection
+MD,Maryland,2035,68981,Projection
+MD,Maryland,2036,68238,Projection
+MD,Maryland,2037,66901,Projection
+MD,Maryland,2038,65365,Projection
+MD,Maryland,2039,65392,Projection
+MD,Maryland,2040,65859,Projection
+MD,Maryland,2041,62752,Projection
+ME,Maine,2009,16455,Reported/Actual
+ME,Maine,2010,16708,Reported/Actual
+ME,Maine,2011,16254,Reported/Actual
+ME,Maine,2012,16087,Reported/Actual
+ME,Maine,2013,15797,Reported/Actual
+ME,Maine,2014,15870,Reported/Actual
+ME,Maine,2015,15355,Reported/Actual
+ME,Maine,2016,15348,Reported/Actual
+ME,Maine,2017,14168,Reported/Actual
+ME,Maine,2018,15274,Reported/Actual
+ME,Maine,2019,14677,Reported/Actual
+ME,Maine,2020,14239,Reported/Actual
+ME,Maine,2021,13869,Reported/Actual
+ME,Maine,2022,14133,Includes Reported/Actual and Projected Values
+ME,Maine,2023,14198,Includes Reported/Actual and Projected Values
+ME,Maine,2024,13897,Projection
+ME,Maine,2025,14056,Projection
+ME,Maine,2026,13698,Projection
+ME,Maine,2027,13562,Projection
+ME,Maine,2028,13120,Projection
+ME,Maine,2029,13124,Projection
+ME,Maine,2030,12938,Projection
+ME,Maine,2031,13404,Projection
+ME,Maine,2032,13808,Projection
+ME,Maine,2033,13441,Projection
+ME,Maine,2034,14085,Projection
+ME,Maine,2035,13446,Projection
+ME,Maine,2036,13487,Projection
+ME,Maine,2037,12870,Projection
+ME,Maine,2038,12597,Projection
+ME,Maine,2039,13149,Projection
+ME,Maine,2040,13231,Projection
+ME,Maine,2041,12718,Projection
+MI,Michigan,2009,121261,Reported/Actual
+MI,Michigan,2010,118119,Reported/Actual
+MI,Michigan,2011,113304,Reported/Actual
+MI,Michigan,2012,113996,Reported/Actual
+MI,Michigan,2013,114023,Reported/Actual
+MI,Michigan,2014,113389,Reported/Actual
+MI,Michigan,2015,113960,Reported/Actual
+MI,Michigan,2016,111282,Reported/Actual
+MI,Michigan,2017,110218,Reported/Actual
+MI,Michigan,2018,112177,Reported/Actual
+MI,Michigan,2019,108725,Reported/Actual
+MI,Michigan,2020,107239,Reported/Actual
+MI,Michigan,2021,103443,Reported/Actual
+MI,Michigan,2022,108265,Includes Reported/Actual and Projected Values
+MI,Michigan,2023,106883,Includes Reported/Actual and Projected Values
+MI,Michigan,2024,103750,Projection
+MI,Michigan,2025,104326,Projection
+MI,Michigan,2026,100573,Projection
+MI,Michigan,2027,98094,Projection
+MI,Michigan,2028,96388,Projection
+MI,Michigan,2029,96628,Projection
+MI,Michigan,2030,95746,Projection
+MI,Michigan,2031,95650,Projection
+MI,Michigan,2032,96505,Projection
+MI,Michigan,2033,94836,Projection
+MI,Michigan,2034,97790,Projection
+MI,Michigan,2035,96183,Projection
+MI,Michigan,2036,94744,Projection
+MI,Michigan,2037,92468,Projection
+MI,Michigan,2038,89138,Projection
+MI,Michigan,2039,90205,Projection
+MI,Michigan,2040,87932,Projection
+MI,Michigan,2041,85131,Projection
+MN,Minnesota,2009,63970,Reported/Actual
+MN,Minnesota,2010,63969,Reported/Actual
+MN,Minnesota,2011,64062,Reported/Actual
+MN,Minnesota,2012,62050,Reported/Actual
+MN,Minnesota,2013,62648,Reported/Actual
+MN,Minnesota,2014,62059,Reported/Actual
+MN,Minnesota,2015,62996,Reported/Actual
+MN,Minnesota,2016,63565,Reported/Actual
+MN,Minnesota,2017,64572,Reported/Actual
+MN,Minnesota,2018,65499,Reported/Actual
+MN,Minnesota,2019,66285,Reported/Actual
+MN,Minnesota,2020,65199,Reported/Actual
+MN,Minnesota,2021,64579,Reported/Actual
+MN,Minnesota,2022,67002,Includes Reported/Actual and Projected Values
+MN,Minnesota,2023,65884,Includes Reported/Actual and Projected Values
+MN,Minnesota,2024,66300,Projection
+MN,Minnesota,2025,67216,Projection
+MN,Minnesota,2026,67286,Projection
+MN,Minnesota,2027,66207,Projection
+MN,Minnesota,2028,64841,Projection
+MN,Minnesota,2029,63632,Projection
+MN,Minnesota,2030,64403,Projection
+MN,Minnesota,2031,64727,Projection
+MN,Minnesota,2032,65753,Projection
+MN,Minnesota,2033,64670,Projection
+MN,Minnesota,2034,65953,Projection
+MN,Minnesota,2035,65154,Projection
+MN,Minnesota,2036,63795,Projection
+MN,Minnesota,2037,62226,Projection
+MN,Minnesota,2038,59784,Projection
+MN,Minnesota,2039,60862,Projection
+MN,Minnesota,2040,60504,Projection
+MN,Minnesota,2041,58295,Projection
+MO,Missouri,2009,70012,Reported/Actual
+MO,Missouri,2010,71096,Reported/Actual
+MO,Missouri,2011,70521,Reported/Actual
+MO,Missouri,2012,68946,Reported/Actual
+MO,Missouri,2013,69146,Reported/Actual
+MO,Missouri,2014,69416,Reported/Actual
+MO,Missouri,2015,69522,Reported/Actual
+MO,Missouri,2016,68757,Reported/Actual
+MO,Missouri,2017,69560,Reported/Actual
+MO,Missouri,2018,68482,Reported/Actual
+MO,Missouri,2019,67892,Reported/Actual
+MO,Missouri,2020,66906,Reported/Actual
+MO,Missouri,2021,66781,Reported/Actual
+MO,Missouri,2022,67773,Includes Reported/Actual and Projected Values
+MO,Missouri,2023,67229,Includes Reported/Actual and Projected Values
+MO,Missouri,2024,67484,Projection
+MO,Missouri,2025,68656,Projection
+MO,Missouri,2026,68422,Projection
+MO,Missouri,2027,66919,Projection
+MO,Missouri,2028,64910,Projection
+MO,Missouri,2029,64234,Projection
+MO,Missouri,2030,64138,Projection
+MO,Missouri,2031,64111,Projection
+MO,Missouri,2032,64706,Projection
+MO,Missouri,2033,64153,Projection
+MO,Missouri,2034,66020,Projection
+MO,Missouri,2035,64283,Projection
+MO,Missouri,2036,64393,Projection
+MO,Missouri,2037,63178,Projection
+MO,Missouri,2038,60625,Projection
+MO,Missouri,2039,60967,Projection
+MO,Missouri,2040,60543,Projection
+MO,Missouri,2041,58880,Projection
+MS,Mississippi,2009,27863,Reported/Actual
+MS,Mississippi,2010,28723,Reported/Actual
+MS,Mississippi,2011,30571,Reported/Actual
+MS,Mississippi,2012,29577,Reported/Actual
+MS,Mississippi,2013,30091,Reported/Actual
+MS,Mississippi,2014,29464,Reported/Actual
+MS,Mississippi,2015,29728,Reported/Actual
+MS,Mississippi,2016,31362,Reported/Actual
+MS,Mississippi,2017,31518,Reported/Actual
+MS,Mississippi,2018,32601,Reported/Actual
+MS,Mississippi,2019,32110,Reported/Actual
+MS,Mississippi,2020,32865,Reported/Actual
+MS,Mississippi,2021,32131,Reported/Actual
+MS,Mississippi,2022,32572,Includes Reported/Actual and Projected Values
+MS,Mississippi,2023,32152,Includes Reported/Actual and Projected Values
+MS,Mississippi,2024,31559,Projection
+MS,Mississippi,2025,33606,Projection
+MS,Mississippi,2026,33708,Projection
+MS,Mississippi,2027,32786,Projection
+MS,Mississippi,2028,29702,Projection
+MS,Mississippi,2029,30663,Projection
+MS,Mississippi,2030,29644,Projection
+MS,Mississippi,2031,27863,Projection
+MS,Mississippi,2032,28978,Projection
+MS,Mississippi,2033,29141,Projection
+MS,Mississippi,2034,30283,Projection
+MS,Mississippi,2035,29445,Projection
+MS,Mississippi,2036,28919,Projection
+MS,Mississippi,2037,28679,Projection
+MS,Mississippi,2038,27750,Projection
+MS,Mississippi,2039,27618,Projection
+MS,Mississippi,2040,27202,Projection
+MS,Mississippi,2041,27003,Projection
+MT,Montana,2009,10449,Reported/Actual
+MT,Montana,2010,10521,Reported/Actual
+MT,Montana,2011,10165,Reported/Actual
+MT,Montana,2012,10161,Reported/Actual
+MT,Montana,2013,9759,Reported/Actual
+MT,Montana,2014,9870,Reported/Actual
+MT,Montana,2015,9749,Reported/Actual
+MT,Montana,2016,9782,Reported/Actual
+MT,Montana,2017,9833,Reported/Actual
+MT,Montana,2018,9627,Reported/Actual
+MT,Montana,2019,9686,Reported/Actual
+MT,Montana,2020,9661,Reported/Actual
+MT,Montana,2021,9694,Reported/Actual
+MT,Montana,2022,9999,Includes Reported/Actual and Projected Values
+MT,Montana,2023,9980,Includes Reported/Actual and Projected Values
+MT,Montana,2024,10253,Projection
+MT,Montana,2025,10374,Projection
+MT,Montana,2026,10737,Projection
+MT,Montana,2027,10590,Projection
+MT,Montana,2028,10318,Projection
+MT,Montana,2029,10644,Projection
+MT,Montana,2030,10692,Projection
+MT,Montana,2031,10886,Projection
+MT,Montana,2032,11253,Projection
+MT,Montana,2033,11587,Projection
+MT,Montana,2034,11947,Projection
+MT,Montana,2035,11218,Projection
+MT,Montana,2036,10913,Projection
+MT,Montana,2037,10506,Projection
+MT,Montana,2038,10232,Projection
+MT,Montana,2039,10694,Projection
+MT,Montana,2040,10618,Projection
+MT,Montana,2041,10520,Projection
+NC,North Carolina,2009,92439,Reported/Actual
+NC,North Carolina,2010,92635,Reported/Actual
+NC,North Carolina,2011,96204,Reported/Actual
+NC,North Carolina,2012,100694,Reported/Actual
+NC,North Carolina,2013,101462,Reported/Actual
+NC,North Carolina,2014,103444,Reported/Actual
+NC,North Carolina,2015,106331,Reported/Actual
+NC,North Carolina,2016,108110,Reported/Actual
+NC,North Carolina,2017,109762,Reported/Actual
+NC,North Carolina,2018,114284,Reported/Actual
+NC,North Carolina,2019,116615,Reported/Actual
+NC,North Carolina,2020,116514,Reported/Actual
+NC,North Carolina,2021,114167,Reported/Actual
+NC,North Carolina,2022,108252,Includes Reported/Actual and Projected Values
+NC,North Carolina,2023,115527,Includes Reported/Actual and Projected Values
+NC,North Carolina,2024,114139,Projection
+NC,North Carolina,2025,121741,Projection
+NC,North Carolina,2026,121551,Projection
+NC,North Carolina,2027,120371,Projection
+NC,North Carolina,2028,117457,Projection
+NC,North Carolina,2029,117243,Projection
+NC,North Carolina,2030,118193,Projection
+NC,North Carolina,2031,119438,Projection
+NC,North Carolina,2032,120295,Projection
+NC,North Carolina,2033,119686,Projection
+NC,North Carolina,2034,125230,Projection
+NC,North Carolina,2035,123253,Projection
+NC,North Carolina,2036,121806,Projection
+NC,North Carolina,2037,120986,Projection
+NC,North Carolina,2038,118981,Projection
+NC,North Carolina,2039,123310,Projection
+NC,North Carolina,2040,124321,Projection
+NC,North Carolina,2041,122719,Projection
+ND,North Dakota,2009,7717,Reported/Actual
+ND,North Dakota,2010,7604,Reported/Actual
+ND,North Dakota,2011,7580,Reported/Actual
+ND,North Dakota,2012,7365,Reported/Actual
+ND,North Dakota,2013,7283,Reported/Actual
+ND,North Dakota,2014,7268,Reported/Actual
+ND,North Dakota,2015,7120,Reported/Actual
+ND,North Dakota,2016,7230,Reported/Actual
+ND,North Dakota,2017,7134,Reported/Actual
+ND,North Dakota,2018,7006,Reported/Actual
+ND,North Dakota,2019,7385,Reported/Actual
+ND,North Dakota,2020,7291,Reported/Actual
+ND,North Dakota,2021,7623,Reported/Actual
+ND,North Dakota,2022,7668,Includes Reported/Actual and Projected Values
+ND,North Dakota,2023,7706,Includes Reported/Actual and Projected Values
+ND,North Dakota,2024,8137,Projection
+ND,North Dakota,2025,8642,Projection
+ND,North Dakota,2026,8637,Projection
+ND,North Dakota,2027,8612,Projection
+ND,North Dakota,2028,8496,Projection
+ND,North Dakota,2029,8715,Projection
+ND,North Dakota,2030,9291,Projection
+ND,North Dakota,2031,9485,Projection
+ND,North Dakota,2032,9720,Projection
+ND,North Dakota,2033,10005,Projection
+ND,North Dakota,2034,10224,Projection
+ND,North Dakota,2035,9771,Projection
+ND,North Dakota,2036,9607,Projection
+ND,North Dakota,2037,9386,Projection
+ND,North Dakota,2038,9039,Projection
+ND,North Dakota,2039,9109,Projection
+ND,North Dakota,2040,8627,Projection
+ND,North Dakota,2041,8690,Projection
+NE,Nebraska,2009,21505,Reported/Actual
+NE,Nebraska,2010,21381,Reported/Actual
+NE,Nebraska,2011,22635,Reported/Actual
+NE,Nebraska,2012,22807,Reported/Actual
+NE,Nebraska,2013,22824,Reported/Actual
+NE,Nebraska,2014,22781,Reported/Actual
+NE,Nebraska,2015,22744,Reported/Actual
+NE,Nebraska,2016,23027,Reported/Actual
+NE,Nebraska,2017,23198,Reported/Actual
+NE,Nebraska,2018,23314,Reported/Actual
+NE,Nebraska,2019,23830,Reported/Actual
+NE,Nebraska,2020,23769,Reported/Actual
+NE,Nebraska,2021,23856,Reported/Actual
+NE,Nebraska,2022,24387,Includes Reported/Actual and Projected Values
+NE,Nebraska,2023,24324,Includes Reported/Actual and Projected Values
+NE,Nebraska,2024,24288,Projection
+NE,Nebraska,2025,23862,Projection
+NE,Nebraska,2026,25492,Projection
+NE,Nebraska,2027,25455,Projection
+NE,Nebraska,2028,25078,Projection
+NE,Nebraska,2029,24598,Projection
+NE,Nebraska,2030,24909,Projection
+NE,Nebraska,2031,24969,Projection
+NE,Nebraska,2032,25427,Projection
+NE,Nebraska,2033,25279,Projection
+NE,Nebraska,2034,25703,Projection
+NE,Nebraska,2035,25009,Projection
+NE,Nebraska,2036,24640,Projection
+NE,Nebraska,2037,23853,Projection
+NE,Nebraska,2038,23389,Projection
+NE,Nebraska,2039,23747,Projection
+NE,Nebraska,2040,23498,Projection
+NE,Nebraska,2041,23263,Projection
+NH,New Hampshire,2009,17220,Reported/Actual
+NH,New Hampshire,2010,17482,Reported/Actual
+NH,New Hampshire,2011,17017,Reported/Actual
+NH,New Hampshire,2012,16915,Reported/Actual
+NH,New Hampshire,2013,16718,Reported/Actual
+NH,New Hampshire,2014,16234,Reported/Actual
+NH,New Hampshire,2015,15854,Reported/Actual
+NH,New Hampshire,2016,16054,Reported/Actual
+NH,New Hampshire,2017,15873,Reported/Actual
+NH,New Hampshire,2018,15466,Reported/Actual
+NH,New Hampshire,2019,14958,Reported/Actual
+NH,New Hampshire,2020,15187,Reported/Actual
+NH,New Hampshire,2021,15352,Reported/Actual
+NH,New Hampshire,2022,15434,Includes Reported/Actual and Projected Values
+NH,New Hampshire,2023,15492,Includes Reported/Actual and Projected Values
+NH,New Hampshire,2024,15462,Projection
+NH,New Hampshire,2025,16484,Projection
+NH,New Hampshire,2026,15213,Projection
+NH,New Hampshire,2027,14786,Projection
+NH,New Hampshire,2028,14216,Projection
+NH,New Hampshire,2029,14574,Projection
+NH,New Hampshire,2030,14146,Projection
+NH,New Hampshire,2031,14026,Projection
+NH,New Hampshire,2032,13931,Projection
+NH,New Hampshire,2033,14239,Projection
+NH,New Hampshire,2034,14445,Projection
+NH,New Hampshire,2035,14242,Projection
+NH,New Hampshire,2036,14061,Projection
+NH,New Hampshire,2037,13817,Projection
+NH,New Hampshire,2038,13765,Projection
+NH,New Hampshire,2039,14782,Projection
+NH,New Hampshire,2040,14139,Projection
+NH,New Hampshire,2041,13964,Projection
+NJ,New Jersey,2009,109433,Reported/Actual
+NJ,New Jersey,2010,110891,Reported/Actual
+NJ,New Jersey,2011,108165,Reported/Actual
+NJ,New Jersey,2012,106858,Reported/Actual
+NJ,New Jersey,2013,109590,Reported/Actual
+NJ,New Jersey,2014,110097,Reported/Actual
+NJ,New Jersey,2015,111654,Reported/Actual
+NJ,New Jersey,2016,109982,Reported/Actual
+NJ,New Jersey,2017,111844,Reported/Actual
+NJ,New Jersey,2018,113367,Reported/Actual
+NJ,New Jersey,2019,109961,Reported/Actual
+NJ,New Jersey,2020,109108,Reported/Actual
+NJ,New Jersey,2021,107755,Reported/Actual
+NJ,New Jersey,2022,104131,Includes Reported/Actual and Projected Values
+NJ,New Jersey,2023,109314,Includes Reported/Actual and Projected Values
+NJ,New Jersey,2024,107977,Projection
+NJ,New Jersey,2025,111084,Projection
+NJ,New Jersey,2026,109903,Projection
+NJ,New Jersey,2027,110204,Projection
+NJ,New Jersey,2028,108582,Projection
+NJ,New Jersey,2029,108730,Projection
+NJ,New Jersey,2030,108465,Projection
+NJ,New Jersey,2031,108500,Projection
+NJ,New Jersey,2032,109449,Projection
+NJ,New Jersey,2033,109597,Projection
+NJ,New Jersey,2034,109825,Projection
+NJ,New Jersey,2035,108372,Projection
+NJ,New Jersey,2036,108394,Projection
+NJ,New Jersey,2037,106310,Projection
+NJ,New Jersey,2038,104634,Projection
+NJ,New Jersey,2039,108509,Projection
+NJ,New Jersey,2040,110011,Projection
+NJ,New Jersey,2041,107973,Projection
+NM,New Mexico,2009,19318,Reported/Actual
+NM,New Mexico,2010,19960,Reported/Actual
+NM,New Mexico,2011,20627,Reported/Actual
+NM,New Mexico,2012,21481,Reported/Actual
+NM,New Mexico,2013,20289,Reported/Actual
+NM,New Mexico,2014,20764,Reported/Actual
+NM,New Mexico,2015,19271,Reported/Actual
+NM,New Mexico,2016,19410,Reported/Actual
+NM,New Mexico,2017,21328,Reported/Actual
+NM,New Mexico,2018,21861,Reported/Actual
+NM,New Mexico,2019,20968,Reported/Actual
+NM,New Mexico,2020,20434,Reported/Actual
+NM,New Mexico,2021,20683,Reported/Actual
+NM,New Mexico,2022,20718,Includes Reported/Actual and Projected Values
+NM,New Mexico,2023,21539,Includes Reported/Actual and Projected Values
+NM,New Mexico,2024,21130,Projection
+NM,New Mexico,2025,22472,Projection
+NM,New Mexico,2026,22162,Projection
+NM,New Mexico,2027,21685,Projection
+NM,New Mexico,2028,20687,Projection
+NM,New Mexico,2029,20840,Projection
+NM,New Mexico,2030,20634,Projection
+NM,New Mexico,2031,20589,Projection
+NM,New Mexico,2032,20508,Projection
+NM,New Mexico,2033,20479,Projection
+NM,New Mexico,2034,20529,Projection
+NM,New Mexico,2035,19426,Projection
+NM,New Mexico,2036,18827,Projection
+NM,New Mexico,2037,18703,Projection
+NM,New Mexico,2038,17847,Projection
+NM,New Mexico,2039,17498,Projection
+NM,New Mexico,2040,17654,Projection
+NM,New Mexico,2041,17104,Projection
+NV,Nevada,2009,20728,Reported/Actual
+NV,Nevada,2010,21827,Reported/Actual
+NV,Nevada,2011,22081,Reported/Actual
+NV,Nevada,2012,22758,Reported/Actual
+NV,Nevada,2013,23874,Reported/Actual
+NV,Nevada,2014,24189,Reported/Actual
+NV,Nevada,2015,25082,Reported/Actual
+NV,Nevada,2016,27222,Reported/Actual
+NV,Nevada,2017,31562,Reported/Actual
+NV,Nevada,2018,32173,Reported/Actual
+NV,Nevada,2019,32765,Reported/Actual
+NV,Nevada,2020,32747,Reported/Actual
+NV,Nevada,2021,32270,Reported/Actual
+NV,Nevada,2022,31588,Includes Reported/Actual and Projected Values
+NV,Nevada,2023,33256,Includes Reported/Actual and Projected Values
+NV,Nevada,2024,33901,Projection
+NV,Nevada,2025,35304,Projection
+NV,Nevada,2026,34639,Projection
+NV,Nevada,2027,33480,Projection
+NV,Nevada,2028,33209,Projection
+NV,Nevada,2029,33142,Projection
+NV,Nevada,2030,33321,Projection
+NV,Nevada,2031,33417,Projection
+NV,Nevada,2032,33561,Projection
+NV,Nevada,2033,33079,Projection
+NV,Nevada,2034,34249,Projection
+NV,Nevada,2035,34299,Projection
+NV,Nevada,2036,34073,Projection
+NV,Nevada,2037,33136,Projection
+NV,Nevada,2038,31750,Projection
+NV,Nevada,2039,31931,Projection
+NV,Nevada,2040,31517,Projection
+NV,Nevada,2041,30156,Projection
+NY,New York,2009,212162,Reported/Actual
+NY,New York,2010,214507,Reported/Actual
+NY,New York,2011,213200,Reported/Actual
+NY,New York,2012,210233,Reported/Actual
+NY,New York,2013,208765,Reported/Actual
+NY,New York,2014,217594,Reported/Actual
+NY,New York,2015,216535,Reported/Actual
+NY,New York,2016,215217,Reported/Actual
+NY,New York,2017,211258,Reported/Actual
+NY,New York,2018,212104,Reported/Actual
+NY,New York,2019,209688,Reported/Actual
+NY,New York,2020,217586,Reported/Actual
+NY,New York,2021,213993,Reported/Actual
+NY,New York,2022,211853,Includes Reported/Actual and Projected Values
+NY,New York,2023,205042,Includes Reported/Actual and Projected Values
+NY,New York,2024,204640,Projection
+NY,New York,2025,206184,Projection
+NY,New York,2026,200655,Projection
+NY,New York,2027,197739,Projection
+NY,New York,2028,191957,Projection
+NY,New York,2029,187033,Projection
+NY,New York,2030,183242,Projection
+NY,New York,2031,178772,Projection
+NY,New York,2032,176574,Projection
+NY,New York,2033,171125,Projection
+NY,New York,2034,172657,Projection
+NY,New York,2035,171389,Projection
+NY,New York,2036,167999,Projection
+NY,New York,2037,163257,Projection
+NY,New York,2038,154244,Projection
+NY,New York,2039,155760,Projection
+NY,New York,2040,153751,Projection
+NY,New York,2041,150533,Projection
+OH,Ohio,2009,135506,Reported/Actual
+OH,Ohio,2010,133685,Reported/Actual
+OH,Ohio,2011,137087,Reported/Actual
+OH,Ohio,2012,135939,Reported/Actual
+OH,Ohio,2013,135241,Reported/Actual
+OH,Ohio,2014,131262,Reported/Actual
+OH,Ohio,2015,131560,Reported/Actual
+OH,Ohio,2016,134302,Reported/Actual
+OH,Ohio,2017,135197,Reported/Actual
+OH,Ohio,2018,135868,Reported/Actual
+OH,Ohio,2019,135941,Reported/Actual
+OH,Ohio,2020,136945,Reported/Actual
+OH,Ohio,2021,133872,Reported/Actual
+OH,Ohio,2022,133760,Includes Reported/Actual and Projected Values
+OH,Ohio,2023,132363,Includes Reported/Actual and Projected Values
+OH,Ohio,2024,149341,Projection
+OH,Ohio,2025,143303,Projection
+OH,Ohio,2026,141163,Projection
+OH,Ohio,2027,140034,Projection
+OH,Ohio,2028,135647,Projection
+OH,Ohio,2029,136317,Projection
+OH,Ohio,2030,134175,Projection
+OH,Ohio,2031,135396,Projection
+OH,Ohio,2032,133703,Projection
+OH,Ohio,2033,131197,Projection
+OH,Ohio,2034,138878,Projection
+OH,Ohio,2035,134895,Projection
+OH,Ohio,2036,132594,Projection
+OH,Ohio,2037,131405,Projection
+OH,Ohio,2038,126370,Projection
+OH,Ohio,2039,127684,Projection
+OH,Ohio,2040,125908,Projection
+OH,Ohio,2041,124461,Projection
+OK,Oklahoma,2009,38750,Reported/Actual
+OK,Oklahoma,2010,40065,Reported/Actual
+OK,Oklahoma,2011,39508,Reported/Actual
+OK,Oklahoma,2012,39180,Reported/Actual
+OK,Oklahoma,2013,39019,Reported/Actual
+OK,Oklahoma,2014,39321,Reported/Actual
+OK,Oklahoma,2015,40327,Reported/Actual
+OK,Oklahoma,2016,42509,Reported/Actual
+OK,Oklahoma,2017,43971,Reported/Actual
+OK,Oklahoma,2018,43828,Reported/Actual
+OK,Oklahoma,2019,45702,Reported/Actual
+OK,Oklahoma,2020,46211,Reported/Actual
+OK,Oklahoma,2021,46032,Reported/Actual
+OK,Oklahoma,2022,47211,Includes Reported/Actual and Projected Values
+OK,Oklahoma,2023,46211,Includes Reported/Actual and Projected Values
+OK,Oklahoma,2024,48112,Projection
+OK,Oklahoma,2025,50332,Projection
+OK,Oklahoma,2026,50769,Projection
+OK,Oklahoma,2027,51288,Projection
+OK,Oklahoma,2028,50171,Projection
+OK,Oklahoma,2029,49564,Projection
+OK,Oklahoma,2030,49595,Projection
+OK,Oklahoma,2031,50438,Projection
+OK,Oklahoma,2032,50509,Projection
+OK,Oklahoma,2033,51042,Projection
+OK,Oklahoma,2034,51108,Projection
+OK,Oklahoma,2035,48457,Projection
+OK,Oklahoma,2036,48059,Projection
+OK,Oklahoma,2037,47410,Projection
+OK,Oklahoma,2038,45971,Projection
+OK,Oklahoma,2039,46770,Projection
+OK,Oklahoma,2040,46663,Projection
+OK,Oklahoma,2041,46250,Projection
+OR,Oregon,2009,38277,Reported/Actual
+OR,Oregon,2010,37071,Reported/Actual
+OR,Oregon,2011,37697,Reported/Actual
+OR,Oregon,2012,37268,Reported/Actual
+OR,Oregon,2013,36939,Reported/Actual
+OR,Oregon,2014,38331,Reported/Actual
+OR,Oregon,2015,38900,Reported/Actual
+OR,Oregon,2016,41833,Reported/Actual
+OR,Oregon,2017,40938,Reported/Actual
+OR,Oregon,2018,41717,Reported/Actual
+OR,Oregon,2019,42173,Reported/Actual
+OR,Oregon,2020,42778,Reported/Actual
+OR,Oregon,2021,41057,Reported/Actual
+OR,Oregon,2022,41163,Includes Reported/Actual and Projected Values
+OR,Oregon,2023,41203,Includes Reported/Actual and Projected Values
+OR,Oregon,2024,41986,Projection
+OR,Oregon,2025,42752,Projection
+OR,Oregon,2026,42839,Projection
+OR,Oregon,2027,41181,Projection
+OR,Oregon,2028,40105,Projection
+OR,Oregon,2029,39497,Projection
+OR,Oregon,2030,39182,Projection
+OR,Oregon,2031,39086,Projection
+OR,Oregon,2032,39427,Projection
+OR,Oregon,2033,38243,Projection
+OR,Oregon,2034,39198,Projection
+OR,Oregon,2035,38349,Projection
+OR,Oregon,2036,36928,Projection
+OR,Oregon,2037,36226,Projection
+OR,Oregon,2038,34411,Projection
+OR,Oregon,2039,35503,Projection
+OR,Oregon,2040,34346,Projection
+OR,Oregon,2041,33272,Projection
+PA,Pennsylvania,2009,149321,Reported/Actual
+PA,Pennsylvania,2010,149776,Reported/Actual
+PA,Pennsylvania,2011,146650,Reported/Actual
+PA,Pennsylvania,2012,147295,Reported/Actual
+PA,Pennsylvania,2013,144535,Reported/Actual
+PA,Pennsylvania,2014,145240,Reported/Actual
+PA,Pennsylvania,2015,143426,Reported/Actual
+PA,Pennsylvania,2016,143901,Reported/Actual
+PA,Pennsylvania,2017,143567,Reported/Actual
+PA,Pennsylvania,2018,143842,Reported/Actual
+PA,Pennsylvania,2019,143645,Reported/Actual
+PA,Pennsylvania,2020,142186,Reported/Actual
+PA,Pennsylvania,2021,139193,Reported/Actual
+PA,Pennsylvania,2022,142275,Includes Reported/Actual and Projected Values
+PA,Pennsylvania,2023,141089,Includes Reported/Actual and Projected Values
+PA,Pennsylvania,2024,135355,Projection
+PA,Pennsylvania,2025,137304,Projection
+PA,Pennsylvania,2026,139630,Projection
+PA,Pennsylvania,2027,136906,Projection
+PA,Pennsylvania,2028,133397,Projection
+PA,Pennsylvania,2029,131764,Projection
+PA,Pennsylvania,2030,129575,Projection
+PA,Pennsylvania,2031,129241,Projection
+PA,Pennsylvania,2032,129238,Projection
+PA,Pennsylvania,2033,125240,Projection
+PA,Pennsylvania,2034,131165,Projection
+PA,Pennsylvania,2035,127318,Projection
+PA,Pennsylvania,2036,125042,Projection
+PA,Pennsylvania,2037,123302,Projection
+PA,Pennsylvania,2038,120066,Projection
+PA,Pennsylvania,2039,122448,Projection
+PA,Pennsylvania,2040,120066,Projection
+PA,Pennsylvania,2041,116928,Projection
+RI,Rhode Island,2009,11846,Reported/Actual
+RI,Rhode Island,2010,11801,Reported/Actual
+RI,Rhode Island,2011,11743,Reported/Actual
+RI,Rhode Island,2012,11634,Reported/Actual
+RI,Rhode Island,2013,11327,Reported/Actual
+RI,Rhode Island,2014,11086,Reported/Actual
+RI,Rhode Island,2015,10908,Reported/Actual
+RI,Rhode Island,2016,11236,Reported/Actual
+RI,Rhode Island,2017,10491,Reported/Actual
+RI,Rhode Island,2018,10892,Reported/Actual
+RI,Rhode Island,2019,11395,Reported/Actual
+RI,Rhode Island,2020,11480,Reported/Actual
+RI,Rhode Island,2021,11411,Reported/Actual
+RI,Rhode Island,2022,11503,Includes Reported/Actual and Projected Values
+RI,Rhode Island,2023,11213,Includes Reported/Actual and Projected Values
+RI,Rhode Island,2024,10932,Projection
+RI,Rhode Island,2025,11551,Projection
+RI,Rhode Island,2026,11199,Projection
+RI,Rhode Island,2027,10840,Projection
+RI,Rhode Island,2028,10672,Projection
+RI,Rhode Island,2029,10519,Projection
+RI,Rhode Island,2030,10366,Projection
+RI,Rhode Island,2031,10469,Projection
+RI,Rhode Island,2032,10395,Projection
+RI,Rhode Island,2033,10333,Projection
+RI,Rhode Island,2034,10575,Projection
+RI,Rhode Island,2035,10341,Projection
+RI,Rhode Island,2036,10195,Projection
+RI,Rhode Island,2037,9822,Projection
+RI,Rhode Island,2038,9752,Projection
+RI,Rhode Island,2039,10142,Projection
+RI,Rhode Island,2040,9947,Projection
+RI,Rhode Island,2041,9492,Projection
+SC,South Carolina,2009,42187,Reported/Actual
+SC,South Carolina,2010,43261,Reported/Actual
+SC,South Carolina,2011,43665,Reported/Actual
+SC,South Carolina,2012,44425,Reported/Actual
+SC,South Carolina,2013,45255,Reported/Actual
+SC,South Carolina,2014,42561,Reported/Actual
+SC,South Carolina,2015,47464,Reported/Actual
+SC,South Carolina,2016,50949,Reported/Actual
+SC,South Carolina,2017,51826,Reported/Actual
+SC,South Carolina,2018,53953,Reported/Actual
+SC,South Carolina,2019,52680,Reported/Actual
+SC,South Carolina,2020,52010,Reported/Actual
+SC,South Carolina,2021,52277,Reported/Actual
+SC,South Carolina,2022,53335,Includes Reported/Actual and Projected Values
+SC,South Carolina,2023,53941,Includes Reported/Actual and Projected Values
+SC,South Carolina,2024,54297,Projection
+SC,South Carolina,2025,57865,Projection
+SC,South Carolina,2026,58790,Projection
+SC,South Carolina,2027,58192,Projection
+SC,South Carolina,2028,56948,Projection
+SC,South Carolina,2029,57162,Projection
+SC,South Carolina,2030,57870,Projection
+SC,South Carolina,2031,58398,Projection
+SC,South Carolina,2032,59730,Projection
+SC,South Carolina,2033,61374,Projection
+SC,South Carolina,2034,61738,Projection
+SC,South Carolina,2035,60992,Projection
+SC,South Carolina,2036,60645,Projection
+SC,South Carolina,2037,60954,Projection
+SC,South Carolina,2038,59509,Projection
+SC,South Carolina,2039,61192,Projection
+SC,South Carolina,2040,61840,Projection
+SC,South Carolina,2041,61735,Projection
+SD,South Dakota,2009,8641,Reported/Actual
+SD,South Dakota,2010,8696,Reported/Actual
+SD,South Dakota,2011,8901,Reported/Actual
+SD,South Dakota,2012,8866,Reported/Actual
+SD,South Dakota,2013,8495,Reported/Actual
+SD,South Dakota,2014,8526,Reported/Actual
+SD,South Dakota,2015,8636,Reported/Actual
+SD,South Dakota,2016,8502,Reported/Actual
+SD,South Dakota,2017,9054,Reported/Actual
+SD,South Dakota,2018,9241,Reported/Actual
+SD,South Dakota,2019,8951,Reported/Actual
+SD,South Dakota,2020,9008,Reported/Actual
+SD,South Dakota,2021,9036,Reported/Actual
+SD,South Dakota,2022,9564,Includes Reported/Actual and Projected Values
+SD,South Dakota,2023,9705,Includes Reported/Actual and Projected Values
+SD,South Dakota,2024,9747,Projection
+SD,South Dakota,2025,10344,Projection
+SD,South Dakota,2026,10613,Projection
+SD,South Dakota,2027,10595,Projection
+SD,South Dakota,2028,10582,Projection
+SD,South Dakota,2029,10567,Projection
+SD,South Dakota,2030,10677,Projection
+SD,South Dakota,2031,10915,Projection
+SD,South Dakota,2032,11300,Projection
+SD,South Dakota,2033,11302,Projection
+SD,South Dakota,2034,11472,Projection
+SD,South Dakota,2035,11196,Projection
+SD,South Dakota,2036,10979,Projection
+SD,South Dakota,2037,10589,Projection
+SD,South Dakota,2038,10133,Projection
+SD,South Dakota,2039,10523,Projection
+SD,South Dakota,2040,10357,Projection
+SD,South Dakota,2041,10357,Projection
+TN,Tennessee,2009,66587,Reported/Actual
+TN,Tennessee,2010,68790,Reported/Actual
+TN,Tennessee,2011,67719,Reported/Actual
+TN,Tennessee,2012,68138,Reported/Actual
+TN,Tennessee,2013,66835,Reported/Actual
+TN,Tennessee,2014,66396,Reported/Actual
+TN,Tennessee,2015,67534,Reported/Actual
+TN,Tennessee,2016,70994,Reported/Actual
+TN,Tennessee,2017,72610,Reported/Actual
+TN,Tennessee,2018,72802,Reported/Actual
+TN,Tennessee,2019,73281,Reported/Actual
+TN,Tennessee,2020,72685,Reported/Actual
+TN,Tennessee,2021,71347,Reported/Actual
+TN,Tennessee,2022,72084,Includes Reported/Actual and Projected Values
+TN,Tennessee,2023,70783,Includes Reported/Actual and Projected Values
+TN,Tennessee,2024,72785,Projection
+TN,Tennessee,2025,75761,Projection
+TN,Tennessee,2026,74939,Projection
+TN,Tennessee,2027,73045,Projection
+TN,Tennessee,2028,72206,Projection
+TN,Tennessee,2029,73318,Projection
+TN,Tennessee,2030,74906,Projection
+TN,Tennessee,2031,76382,Projection
+TN,Tennessee,2032,77214,Projection
+TN,Tennessee,2033,77390,Projection
+TN,Tennessee,2034,80871,Projection
+TN,Tennessee,2035,79662,Projection
+TN,Tennessee,2036,79327,Projection
+TN,Tennessee,2037,78751,Projection
+TN,Tennessee,2038,77010,Projection
+TN,Tennessee,2039,80350,Projection
+TN,Tennessee,2040,80767,Projection
+TN,Tennessee,2041,81459,Projection
+TX,Texas,2009,277178,Reported/Actual
+TX,Texas,2010,294081,Reported/Actual
+TX,Texas,2011,303308,Reported/Actual
+TX,Texas,2012,305981,Reported/Actual
+TX,Texas,2013,315453,Reported/Actual
+TX,Texas,2014,318407,Reported/Actual
+TX,Texas,2015,329930,Reported/Actual
+TX,Texas,2016,341270,Reported/Actual
+TX,Texas,2017,351809,Reported/Actual
+TX,Texas,2018,364979,Reported/Actual
+TX,Texas,2019,372402,Reported/Actual
+TX,Texas,2020,377064,Reported/Actual
+TX,Texas,2021,375741,Reported/Actual
+TX,Texas,2022,385604,Includes Reported/Actual and Projected Values
+TX,Texas,2023,393596,Includes Reported/Actual and Projected Values
+TX,Texas,2024,386097,Projection
+TX,Texas,2025,408251,Projection
+TX,Texas,2026,410890,Projection
+TX,Texas,2027,410422,Projection
+TX,Texas,2028,400690,Projection
+TX,Texas,2029,398512,Projection
+TX,Texas,2030,399411,Projection
+TX,Texas,2031,404468,Projection
+TX,Texas,2032,411142,Projection
+TX,Texas,2033,420590,Projection
+TX,Texas,2034,429676,Projection
+TX,Texas,2035,410286,Projection
+TX,Texas,2036,405580,Projection
+TX,Texas,2037,402929,Projection
+TX,Texas,2038,392817,Projection
+TX,Texas,2039,399937,Projection
+TX,Texas,2040,417050,Projection
+TX,Texas,2041,414861,Projection
+UT,Utah,2009,31733,Reported/Actual
+UT,Utah,2010,32660,Reported/Actual
+UT,Utah,2011,32101,Reported/Actual
+UT,Utah,2012,32561,Reported/Actual
+UT,Utah,2013,34782,Reported/Actual
+UT,Utah,2014,38052,Reported/Actual
+UT,Utah,2015,38943,Reported/Actual
+UT,Utah,2016,40468,Reported/Actual
+UT,Utah,2017,42171,Reported/Actual
+UT,Utah,2018,43372,Reported/Actual
+UT,Utah,2019,43182,Reported/Actual
+UT,Utah,2020,45251,Reported/Actual
+UT,Utah,2021,46085,Reported/Actual
+UT,Utah,2022,46946,Includes Reported/Actual and Projected Values
+UT,Utah,2023,47592,Includes Reported/Actual and Projected Values
+UT,Utah,2024,48529,Projection
+UT,Utah,2025,50172,Projection
+UT,Utah,2026,50201,Projection
+UT,Utah,2027,49537,Projection
+UT,Utah,2028,48966,Projection
+UT,Utah,2029,49022,Projection
+UT,Utah,2030,48443,Projection
+UT,Utah,2031,50014,Projection
+UT,Utah,2032,49876,Projection
+UT,Utah,2033,49898,Projection
+UT,Utah,2034,50812,Projection
+UT,Utah,2035,48337,Projection
+UT,Utah,2036,47153,Projection
+UT,Utah,2037,46692,Projection
+UT,Utah,2038,45535,Projection
+UT,Utah,2039,46628,Projection
+UT,Utah,2040,45648,Projection
+UT,Utah,2041,44908,Projection
+VA,Virginia,2009,86162,Reported/Actual
+VA,Virginia,2010,86732,Reported/Actual
+VA,Virginia,2011,89297,Reported/Actual
+VA,Virginia,2012,89803,Reported/Actual
+VA,Virginia,2013,89811,Reported/Actual
+VA,Virginia,2014,89297,Reported/Actual
+VA,Virginia,2015,88958,Reported/Actual
+VA,Virginia,2016,92332,Reported/Actual
+VA,Virginia,2017,92778,Reported/Actual
+VA,Virginia,2018,95710,Reported/Actual
+VA,Virginia,2019,98970,Reported/Actual
+VA,Virginia,2020,100147,Reported/Actual
+VA,Virginia,2021,98780,Reported/Actual
+VA,Virginia,2022,99497,Includes Reported/Actual and Projected Values
+VA,Virginia,2023,100051,Includes Reported/Actual and Projected Values
+VA,Virginia,2024,99011,Projection
+VA,Virginia,2025,104008,Projection
+VA,Virginia,2026,102981,Projection
+VA,Virginia,2027,100484,Projection
+VA,Virginia,2028,99114,Projection
+VA,Virginia,2029,99393,Projection
+VA,Virginia,2030,100188,Projection
+VA,Virginia,2031,100530,Projection
+VA,Virginia,2032,101600,Projection
+VA,Virginia,2033,101663,Projection
+VA,Virginia,2034,105089,Projection
+VA,Virginia,2035,102267,Projection
+VA,Virginia,2036,101543,Projection
+VA,Virginia,2037,98565,Projection
+VA,Virginia,2038,95846,Projection
+VA,Virginia,2039,97319,Projection
+VA,Virginia,2040,97073,Projection
+VA,Virginia,2041,93984,Projection
+VT,Vermont,2009,8376,Reported/Actual
+VT,Vermont,2010,8547,Reported/Actual
+VT,Vermont,2011,7931,Reported/Actual
+VT,Vermont,2012,7822,Reported/Actual
+VT,Vermont,2013,7419,Reported/Actual
+VT,Vermont,2014,7408,Reported/Actual
+VT,Vermont,2015,7404,Reported/Actual
+VT,Vermont,2016,7174,Reported/Actual
+VT,Vermont,2017,6789,Reported/Actual
+VT,Vermont,2018,6547,Reported/Actual
+VT,Vermont,2019,6158,Reported/Actual
+VT,Vermont,2020,5988,Reported/Actual
+VT,Vermont,2021,5977,Reported/Actual
+VT,Vermont,2022,5789,Includes Reported/Actual and Projected Values
+VT,Vermont,2023,5765,Includes Reported/Actual and Projected Values
+VT,Vermont,2024,5551,Projection
+VT,Vermont,2025,5807,Projection
+VT,Vermont,2026,5851,Projection
+VT,Vermont,2027,5534,Projection
+VT,Vermont,2028,5587,Projection
+VT,Vermont,2029,5457,Projection
+VT,Vermont,2030,5518,Projection
+VT,Vermont,2031,5514,Projection
+VT,Vermont,2032,5818,Projection
+VT,Vermont,2033,5460,Projection
+VT,Vermont,2034,5747,Projection
+VT,Vermont,2035,5504,Projection
+VT,Vermont,2036,5269,Projection
+VT,Vermont,2037,5207,Projection
+VT,Vermont,2038,4971,Projection
+VT,Vermont,2039,5246,Projection
+VT,Vermont,2040,5168,Projection
+VT,Vermont,2041,4921,Projection
+WA,Washington,2009,67212,Reported/Actual
+WA,Washington,2010,68023,Reported/Actual
+WA,Washington,2011,70661,Reported/Actual
+WA,Washington,2012,70289,Reported/Actual
+WA,Washington,2013,72026,Reported/Actual
+WA,Washington,2014,70092,Reported/Actual
+WA,Washington,2015,79634,Reported/Actual
+WA,Washington,2016,74312,Reported/Actual
+WA,Washington,2017,74800,Reported/Actual
+WA,Washington,2018,78061,Reported/Actual
+WA,Washington,2019,79042,Reported/Actual
+WA,Washington,2020,79537,Reported/Actual
+WA,Washington,2021,78071,Reported/Actual
+WA,Washington,2022,78990,Includes Reported/Actual and Projected Values
+WA,Washington,2023,80405,Includes Reported/Actual and Projected Values
+WA,Washington,2024,80640,Projection
+WA,Washington,2025,83021,Projection
+WA,Washington,2026,83554,Projection
+WA,Washington,2027,82141,Projection
+WA,Washington,2028,79979,Projection
+WA,Washington,2029,79308,Projection
+WA,Washington,2030,79259,Projection
+WA,Washington,2031,79957,Projection
+WA,Washington,2032,80313,Projection
+WA,Washington,2033,78904,Projection
+WA,Washington,2034,81189,Projection
+WA,Washington,2035,80777,Projection
+WA,Washington,2036,79229,Projection
+WA,Washington,2037,77438,Projection
+WA,Washington,2038,75510,Projection
+WA,Washington,2039,76471,Projection
+WA,Washington,2040,76176,Projection
+WA,Washington,2041,73935,Projection
+WI,Wisconsin,2009,71017,Reported/Actual
+WI,Wisconsin,2010,70436,Reported/Actual
+WI,Wisconsin,2011,69555,Reported/Actual
+WI,Wisconsin,2012,68155,Reported/Actual
+WI,Wisconsin,2013,66905,Reported/Actual
+WI,Wisconsin,2014,66495,Reported/Actual
+WI,Wisconsin,2015,65524,Reported/Actual
+WI,Wisconsin,2016,64837,Reported/Actual
+WI,Wisconsin,2017,66530,Reported/Actual
+WI,Wisconsin,2018,68191,Reported/Actual
+WI,Wisconsin,2019,68053,Reported/Actual
+WI,Wisconsin,2020,66830,Reported/Actual
+WI,Wisconsin,2021,65909,Reported/Actual
+WI,Wisconsin,2022,67563,Includes Reported/Actual and Projected Values
+WI,Wisconsin,2023,67132,Includes Reported/Actual and Projected Values
+WI,Wisconsin,2024,66435,Projection
+WI,Wisconsin,2025,68507,Projection
+WI,Wisconsin,2026,67781,Projection
+WI,Wisconsin,2027,66963,Projection
+WI,Wisconsin,2028,64618,Projection
+WI,Wisconsin,2029,63450,Projection
+WI,Wisconsin,2030,63368,Projection
+WI,Wisconsin,2031,63181,Projection
+WI,Wisconsin,2032,63249,Projection
+WI,Wisconsin,2033,63091,Projection
+WI,Wisconsin,2034,63142,Projection
+WI,Wisconsin,2035,62090,Projection
+WI,Wisconsin,2036,61238,Projection
+WI,Wisconsin,2037,60191,Projection
+WI,Wisconsin,2038,57597,Projection
+WI,Wisconsin,2039,58799,Projection
+WI,Wisconsin,2040,57204,Projection
+WI,Wisconsin,2041,56910,Projection
+WV,West Virginia,2009,18429,Reported/Actual
+WV,West Virginia,2010,18446,Reported/Actual
+WV,West Virginia,2011,17971,Reported/Actual
+WV,West Virginia,2012,18324,Reported/Actual
+WV,West Virginia,2013,18707,Reported/Actual
+WV,West Virginia,2014,18423,Reported/Actual
+WV,West Virginia,2015,18674,Reported/Actual
+WV,West Virginia,2016,19176,Reported/Actual
+WV,West Virginia,2017,18905,Reported/Actual
+WV,West Virginia,2018,19036,Reported/Actual
+WV,West Virginia,2019,18751,Reported/Actual
+WV,West Virginia,2020,18271,Reported/Actual
+WV,West Virginia,2021,17400,Reported/Actual
+WV,West Virginia,2022,17853,Includes Reported/Actual and Projected Values
+WV,West Virginia,2023,18003,Includes Reported/Actual and Projected Values
+WV,West Virginia,2024,17022,Projection
+WV,West Virginia,2025,18113,Projection
+WV,West Virginia,2026,17352,Projection
+WV,West Virginia,2027,17078,Projection
+WV,West Virginia,2028,16432,Projection
+WV,West Virginia,2029,16404,Projection
+WV,West Virginia,2030,16084,Projection
+WV,West Virginia,2031,16187,Projection
+WV,West Virginia,2032,14322,Projection
+WV,West Virginia,2033,15317,Projection
+WV,West Virginia,2034,15775,Projection
+WV,West Virginia,2035,15092,Projection
+WV,West Virginia,2036,14703,Projection
+WV,West Virginia,2037,14596,Projection
+WV,West Virginia,2038,13929,Projection
+WV,West Virginia,2039,13904,Projection
+WV,West Virginia,2040,13659,Projection
+WV,West Virginia,2041,13388,Projection
+WY,Wyoming,2009,5541,Reported/Actual
+WY,Wyoming,2010,5770,Reported/Actual
+WY,Wyoming,2011,5664,Reported/Actual
+WY,Wyoming,2012,5635,Reported/Actual
+WY,Wyoming,2013,5585,Reported/Actual
+WY,Wyoming,2014,5488,Reported/Actual
+WY,Wyoming,2015,5488,Reported/Actual
+WY,Wyoming,2016,5670,Reported/Actual
+WY,Wyoming,2017,5599,Reported/Actual
+WY,Wyoming,2018,5700,Reported/Actual
+WY,Wyoming,2019,5880,Reported/Actual
+WY,Wyoming,2020,5760,Reported/Actual
+WY,Wyoming,2021,5982,Reported/Actual
+WY,Wyoming,2022,5935,Includes Reported/Actual and Projected Values
+WY,Wyoming,2023,6137,Includes Reported/Actual and Projected Values
+WY,Wyoming,2024,6188,Projection
+WY,Wyoming,2025,6385,Projection
+WY,Wyoming,2026,6259,Projection
+WY,Wyoming,2027,6132,Projection
+WY,Wyoming,2028,5966,Projection
+WY,Wyoming,2029,5914,Projection
+WY,Wyoming,2030,5873,Projection
+WY,Wyoming,2031,5909,Projection
+WY,Wyoming,2032,5870,Projection
+WY,Wyoming,2033,5883,Projection
+WY,Wyoming,2034,5892,Projection
+WY,Wyoming,2035,5466,Projection
+WY,Wyoming,2036,5167,Projection
+WY,Wyoming,2037,5145,Projection
+WY,Wyoming,2038,4802,Projection
+WY,Wyoming,2039,4912,Projection
+WY,Wyoming,2040,4761,Projection
+WY,Wyoming,2041,4709,Projection
